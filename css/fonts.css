@@ -1,0 +1,46 @@
+@font-face {
+	font-family: 'Raleway Regular';
+	src: url('../fonts/RALEWAY-REGULAR.woff');
+}
+
+@font-face {
+	font-family: 'Raleway Bold';
+	src: url('../fonts/RALEWAY-BOLD.woff');
+}
+
+@font-face {
+  font-family: 'Raleway Medium';
+  src: url('../fonts/RALEWAY-MEDIUM.woff');
+}
+
+@font-face {
+  font-family: 'Raleway SemiBold';
+  src: url('../fonts/RALEWAY-SEMIBOLD.woff');
+}
+@font-face {
+  font-family: 'Raleway ExtraBold';
+  src: url('../fonts/RALEWAY-EXTRABOLD.woff');
+}
+@font-face {
+  font-family: 'Raleway UltraBold';
+  src: url('../fonts/RALEWAY-ULTRABOLD.woff');
+}
+@font-face {
+	font-family: 'Righteous'
+	src: url('../fonts/RIGHTEOUS.woff');
+}
+
+@font-face {
+	font-family: 'Rough';
+	src: url('../fonts/RoughNotesSample.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'coolvetica';
+	src: url('../fonts/coolvetica.ttf');
+}
+
+@font-face {
+	font-family: 'morning';
+	src: url('../fonts/Morningtype.ttf');
+}
